@@ -21,7 +21,7 @@ This section outlines the steps to verify the Mirrored Influence Hypothesis.
    - Use the Jupyter Notebook provided for non-convex models:
      - `LOO-DualLOO-Group-Nonconvex-mnist.ipynb`
 
-## Application
+## Applications
 
 
 ## Citation
