@@ -44,7 +44,7 @@ This section provides an example of applying our algorithm in one of our applica
 - For text-to-image model data attribution experiments, use the codebase, pre-trained models, and environment detailed in [this paper](https://arxiv.org/pdf/2306.09345).
 
 - For NLP fact-tracing experiments, refer to the codebase, pre-trained models, and environment described in [this paper](https://arxiv.org/pdf/2205.11482).
-- 
+  
 ## Contact Information
 
 For any inquiries, issues, or contributions, please contact:
