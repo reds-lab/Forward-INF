@@ -41,9 +41,10 @@ This section provides an example of applying our algorithm in one of our applica
   - `FINF-Duplication-ResNet18-main.ipynb`
 - The same codebase can be adapted for various applications.
 
-- For text-to-image model data attribution experiments, follow the codebase, pre-trained models, and environment from https://arxiv.org/pdf/2306.09345
-- For nlp fact-tracing experiments, follow the codebase, pre-trained models, and environment from https://arxiv.org/pdf/2205.11482.
+- For text-to-image model data attribution experiments, use the codebase, pre-trained models, and environment detailed in [this paper](https://arxiv.org/pdf/2306.09345).
 
+- For NLP fact-tracing experiments, refer to the codebase, pre-trained models, and environment described in [this paper](https://arxiv.org/pdf/2205.11482).
+- 
 ## Contact Information
 
 For any inquiries, issues, or contributions, please contact:
