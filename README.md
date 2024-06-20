@@ -41,8 +41,8 @@ This section provides an example of applying our algorithm in one of our applica
   - `FINF-Duplication-ResNet18-main.ipynb`
 - The same codebase can be adapted for various applications.
 
-- For Diffusion model experiments, follow the codebase, pre-trained models, and environment from https://arxiv.org/pdf/2306.09345
-- For NLP experiments, follow the codebase, pre-trained models, and environment from https://arxiv.org/pdf/2205.11482.
+- For text-to-image model data attribution experiments, follow the codebase, pre-trained models, and environment from https://arxiv.org/pdf/2306.09345
+- For fact-tracing experiments, follow the codebase, pre-trained models, and environment from https://arxiv.org/pdf/2205.11482.
 
 ## Contact Information
 
