@@ -11,11 +11,7 @@ published at CVPR 2024.
 1. **Create and Activate the Conda Environment:**
      ```bash
      conda create -n data-infl python=3.8.16
-     ```
-     ```bash
      conda activate data-infl
-     ```
-     ```bash
      pip install -r requirements.txt
      ```
 
