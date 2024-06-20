@@ -21,14 +21,17 @@ This section outlines the steps to verify the Mirrored Influence Hypothesis.
 
 ### Convex Models
 1. **Execution of Scripts:**
-   - Begin by running the script `python LOO-DualLOO-Convex.py`. 
+   - Begin by running the following script to get a set of scores.
+     ```bash
+     python LOO-DualLOO-Convex.py`
+     ```
 2. **Analysis:**
    - After running the script, proceed with the analysis using the Jupyter Notebook:
      - `LOO-DualLOO-Convex_Analysis.ipynb`
 
 ### Non-Convex Models
 1. **Analysis:**
-   - Use the Jupyter Notebook provided for non-convex models:
+   - Use the following Jupyter Notebook for the analysis of non-convex models:
      - `LOO-DualLOO-Group-Nonconvex-mnist.ipynb`
 
 ## Applications
@@ -37,6 +40,9 @@ This section provides an example of applying our algorithm in one of our applica
 - To review the implementation, refer to the provided Jupyter Notebook in the data-leakage directory:
   - `FINF-Duplication-ResNet18-main.ipynb`
 - The same codebase can be adapted for various applications.
+
+- For Diffusion model experiments, follow the codebase, pre-trained models, and environment from https://arxiv.org/pdf/2306.09345
+- For NLP experiments, follow the codebase, pre-trained models, and environment from https://arxiv.org/pdf/2205.11482.
 
 ## Contact Information
 
