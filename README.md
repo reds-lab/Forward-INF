@@ -47,11 +47,10 @@ This section provides an example of applying our algorithm in one of our applica
   
 ## Contact Information
 
-For any inquiries, issues, or contributions, please contact:
+Feel free to reach out if you have any questions.
 
 - `myeongseob@vt.edu`
 
-Feel free to reach out if you have any questions.
 
 ## Citation
 
