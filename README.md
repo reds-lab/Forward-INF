@@ -23,6 +23,18 @@ This section outlines the steps to verify the Mirrored Influence Hypothesis.
 
 ## Applications
 
+This section provides an example of applying our algorithm in one of our applications (e.g., data leakage experiment). 
+- To review the implementation, refer to the provided Jupyter Notebook in the data-leakage directory:
+  - `FINF-Duplication-ResNet18-main.ipynb`
+- The same codebase can be adapted for various applications.
+
+## Contact Information
+
+For any inquiries, issues, or contributions, please contact:
+
+- **Myeongseob Ko**: `myeongseob@vt.edu`
+
+Feel free to reach out if you have any questions.
 
 ## Citation
 
