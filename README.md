@@ -49,7 +49,7 @@ This section provides an example of applying our algorithm in one of our applica
 
 For any inquiries, issues, or contributions, please contact:
 
-- **Myeongseob Ko**: `myeongseob@vt.edu`
+- `myeongseob@vt.edu`
 
 Feel free to reach out if you have any questions.
 
